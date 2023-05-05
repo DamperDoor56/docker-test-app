@@ -1,0 +1,12 @@
+{
+  "name": "docker-test-app",
+  "version": "1.0.0",
+  "description": "A very simple app to try docker",
+  "scripts": {
+    "start": "node index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^20.0.0",
+    "express": "^4.18.2"
+  }
+}
